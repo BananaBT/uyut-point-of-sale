@@ -30,14 +30,6 @@ function suggest(inputString){
 	margin-bottom:10px;
 	background-color:#FFFF99;
 }
-#country{
-	border: 1px solid #999;
-	background: #EEEEEE;
-	padding: 5px 10px;
-	box-shadow:0 1px 2px #ddd;
-    -moz-box-shadow:0 1px 2px #ddd;
-    -webkit-box-shadow:0 1px 2px #ddd;
-}
 .suggestionsBox {
 	position: absolute;
 	left: 10px;
